@@ -1,0 +1,107 @@
+.section-3 {
+    height: 70vmin;
+    margin-top: 15vmin;
+    background: #e8e679;
+    margin-bottom: 30px;
+    /* padding-bottom: 200px; */
+
+}
+
+.section-3 .col-md-12>h1 {
+    padding: 2em 0 0.5em 0;
+    color: rgb(19, 19, 19);
+    font-size: 6vmin;
+    font-family: var(--Rubik);
+    font-weight: 900;
+}
+
+.section-3 .col-md-12>p {
+    padding: 0 4em;
+    padding-bottom: 2em;
+    color: #000;
+    font-size: 3vmin;
+    font-family: var(--Rubik);
+}
+
+.section-3 .desktop {
+    background: rgb(181, 217, 217);
+    display: inline-block;
+    border-radius: 1em;
+    border: 2px solid #000;
+    padding: .5vmin 2.5vmin;
+    margin: 1em;
+    font-family: var(--Rubik);
+    margin-top: 15px;
+}
+
+.section-3 .desktop h3 {
+    font-size: 4vmin;
+}
+
+.section-3 .desktop p {
+    font-size: 2vmin;
+}
+
+
+.header .row .col-md-7 {
+    padding: 22vmin 1vmin;
+    padding-bottom: 15vmin;
+}
+
+.header .row .col-md-5 {
+    padding: 4.2vmin 1vmin;
+}
+
+.header .row .col-md-5 img {
+    width: 100%;
+    padding-top: 120px;
+    border-radius: 10%;
+    margin-top: 2px;
+}
+
+.header {
+    background: #edb2a7;
+    margin: 0 100px;
+}
+
+.header .container .col-md-7 {
+    font-family: "Rubik", sans-serif;
+}
+
+.header .container .col-md-7 h6 {
+    padding: 1vmin;
+    letter-spacing: 4px;
+}
+
+.header .container .col-md-7 h1 {
+    font-size: 8.5vmin;
+    font-weight: bold;
+    padding: 0.1em 0em;
+}
+
+.header .container .col-md-7 p {
+    padding: 1vmin 5vmin;
+}
+
+.primary-btn {
+    border-radius: 50px;
+    font-weight: bold;
+}
+
+.formbar {
+    background: #d6b9dc;
+    padding: 10px 80px;
+    margin-bottom: 40px;
+}
+
+.form-group input {
+    border: 2px solid #000;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.btn {
+    padding: 10px 40px;
+    border-radius: 18px;
+    background: #7b936e;
+}
